@@ -124,10 +124,10 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![OUTPUT](./static/images/timetable.png)
+![OUTPUT](.mypro/static/images/timetable.png)
 
 ## HTML VALIDATOR
-![HTML VALIDATOR](./static/images/validator.png)
+![HTML VALIDATOR](.mypro/static/images/validator.png)
 
 
 
