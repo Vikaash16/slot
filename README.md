@@ -124,9 +124,11 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+
 ![OUTPUT](./timetable.png)
 
 ## HTML VALIDATOR
+
 ![HTML VALIDATOR](./validator.png)
 
 
