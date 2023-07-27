@@ -124,10 +124,10 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![OUTPUT](http://vikaashp.student.saveetha.in:8000/static/images/timetable.png?raw=true)
+![OUTPUT](./static/images/timetable.png)
 
 ## HTML VALIDATOR
-![HTML VALIDATOR](http://vikaashp.student.saveetha.in:8000/static/images/validator.png?raw=true)
+![HTML VALIDATOR](./static/images/validator.png)
 
 
 
